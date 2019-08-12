@@ -1,0 +1,3 @@
+[mysql]
+wyl02   ansible_ssh_host=192.168.52.129   ansible_ssh_pass=123456  m1=true
+wyl03   ansible_ssh_host=192.168.52.130   ansible_ssh_pass=123456  m2=true
